@@ -2,3 +2,5 @@
 https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/
 - multi-class ROC curve
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+- sequence data classifier
+https://tykimos.github.io/2017/08/17/Text_Input_Binary_Classification_Model_Recipe/
