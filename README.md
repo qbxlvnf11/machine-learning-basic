@@ -7,9 +7,9 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 
 
 - Upload basic machine learning model code
-- Upload to a Jupiter Notebook file (.ipynb) for immediate understanding
+- Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
-references
+References
 =============
 
 - CIFAR10 classifier:
