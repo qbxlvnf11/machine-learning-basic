@@ -9,6 +9,19 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 - Upload basic machine learning model code
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
+
+Datasets
+=============
+
+- news aggregater
+
+https://www.kaggle.com/uciml/news-aggregator-dataset
+
+- pima indians diabetes
+
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
+
+
 References
 =============
 
@@ -31,15 +44,3 @@ https://subinium.github.io/MLwithPython-2-3-1/
 - t-SNE
 
 https://www.kaggle.com/eliotbarr/news-exploration
-
-
-Datasets
-=============
-
-- news aggregater
-
-https://www.kaggle.com/uciml/news-aggregator-dataset
-
-- pima indians diabetes
-
-https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
