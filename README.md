@@ -23,11 +23,11 @@ Contents
 Datasets
 =============
 
-- news aggregater
+- News Aggregater
 
 https://www.kaggle.com/uciml/news-aggregator-dataset
 
-- pima indians diabetes
+- Pima Indians Diabetes
 
 https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
 
@@ -35,15 +35,15 @@ https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabete
 References
 =============
 
-- CIFAR10 classifier
+- CIFAR10 Classifier
 
 https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/
 
-- multi-class ROC curve
+- Multi-class ROC Curve
 
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
 
-- sequence data classifier
+- Sequence Data Classifier
 
 https://tykimos.github.io/2017/08/17/Text_Input_Binary_Classification_Model_Recipe/
 
@@ -54,3 +54,7 @@ https://subinium.github.io/MLwithPython-2-3-1/
 - t-SNE
 
 https://www.kaggle.com/eliotbarr/news-exploration
+
+- Confusion Matrix Visualization
+
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
