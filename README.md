@@ -10,6 +10,16 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
+Contents
+=============
+
+- MNIST, CIFAR-10 Image Classifier with Multi Class ROC Curve
+- K-NN Classifier and Regressor
+- Bidirectional LSTM News Classifier
+- Recurrent Convolution News Classifier
+- Charcter-level Featrue and Word-level Feature t-SNE
+- Comparison between Decision Tree and Random Forest
+
 Datasets
 =============
 
