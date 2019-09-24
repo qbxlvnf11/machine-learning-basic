@@ -29,7 +29,7 @@ https://www.kaggle.com/uciml/news-aggregator-dataset
 
 - Pima Indians Diabetes
 
-https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 
 References
