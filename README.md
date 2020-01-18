@@ -17,8 +17,8 @@ Contents
 - Comparison between Decision Tree and Random Forest
 - MNIST, CIFAR-10 Image Classifier with Multi Class ROC Curve
 - Charcter-level Featrue and Word-level Feature t-SNE
-- Bidirectional LSTM News Classifier
-- Recurrent Convolution News Classifier
+- Bidirectional LSTM News Classifier (Character Embedding)
+- Recurrent Convolution News Classifier (Character Embedding)
 
 Datasets
 =============
