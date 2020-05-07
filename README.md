@@ -19,6 +19,7 @@ Contents
 - Charcter-level Featrue and Word-level Feature t-SNE
 - Bidirectional LSTM News Classifier with Character Embedding
 - Recurrent Convolution News Classifier with Character Embedding
+- Solving Regression Problem (Prediction of Fuel Efficiency)
 
 Datasets
 =============
@@ -31,6 +32,9 @@ https://www.kaggle.com/uciml/news-aggregator-dataset
 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
+- Auto MPG
+
+https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
 References
 =============
@@ -59,6 +63,9 @@ https://www.kaggle.com/eliotbarr/news-exploration
 
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
 
+- Regression Problem
+
+https://www.tensorflow.org/tutorials/keras/regression?hl=ko
 
 Code correction
 =============
